@@ -1,4 +1,4 @@
-<h1>This script you can use for gophish service.</h1> 
+<h2>This script you can use for gophish service.</h2> 
 
 <ul>Usage::
   <li>./service.sh start</li>
