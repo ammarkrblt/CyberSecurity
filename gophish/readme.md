@@ -1,9 +1,9 @@
-This script you can use for gophish service. 
+<h1>This script you can use for gophish service.</h1> 
 
-Usage::
-./service.sh start
-./service.sh stop
-./service.sh restart
-./service.sh status:: check gophish status
-./service.sh * :::: help menu
-
+<ul>Usage::
+  <li>./service.sh start</li>
+  <li>./service.sh stop</li>
+  <li>./service.sh restart</li>
+  <li>./service.sh status:: check gophish status</li>
+  <li>./service.sh * :::: help menu</li>
+</ul>
